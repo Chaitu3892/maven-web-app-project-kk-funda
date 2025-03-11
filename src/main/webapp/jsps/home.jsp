@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		SAMKRG, 
-		Hyderabad,
+		Bonthapally, Hyderabad,
 		Telangana, 502313
 		+91-9542723262,+91-7013833907
 		chaitanya.mechengineer@gmail.com
